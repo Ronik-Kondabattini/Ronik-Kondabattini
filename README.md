@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hey, I am [Your Name]! Great to see you here! 👋
+# Hey, I am Ronik! Great to see you here! 👋
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Building%20the%20Future%20with%20AI&fontSize=50&fontAlignY=38&desc=AIML%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=50)
 
