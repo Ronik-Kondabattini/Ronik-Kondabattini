@@ -9,9 +9,25 @@ I am currently pursuing my B.Tech in Artificial Intelligence and Machine Learnin
 Find out more about me & feel free to connect with me here:
 
 <p align="left">
-<a href="linkedin.com/in/kondabattini-ronik-6909a7373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="ronikkondabattini@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kondabattini-ronik-6909a7373" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" 
+         alt="LinkedIn" height="40" width="40" style="margin-right:15px;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:ronikkondabattini@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" 
+         alt="Email" height="40" width="40" style="margin-right:15px;" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Ronik-Kondabattini" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github.png" 
+         alt="GitHub" height="40" width="40" style="margin-right:15px;" />
+  </a>
 </p>
+
 
 ---
 
